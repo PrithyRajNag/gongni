@@ -1,0 +1,188 @@
+{
+    "Market List": "মার্কেটের তালিকা",
+    "Create Market": "মার্কেট যুক্ত করুন",
+    "Update Market Information": "মার্কেটের তথ্য হালনাগাদ",
+    "Market Information": "মার্কেটের তথ্য",
+    "Delete Market Information":"মার্কেটের তথ্য মুছে ফেলুন",
+
+
+    "Education Institution List": "শিক্ষা প্রতিষ্ঠানের তালিকা ",
+    "Education Institution Information": "শিক্ষা প্রতিষ্ঠানের তথ্য",
+    "Create Education Institute": "শিক্ষা প্রতিষ্ঠান যুক্ত করুন",
+    "Update Education Institution Information": "শিক্ষা প্রতিষ্ঠানের তথ্য হালনাগাদ করুন",
+    "Delete Education Institution Information": "শিক্ষা প্রতিষ্ঠানের তথ্য মুছে ফেলুন",
+
+
+    "Hospital List": "হাসপাতালের তালিকা",
+    "Create Hospital": "হাসপাতাল যুক্ত করুন",
+    "Hospital Information": "হাসপাতালের তথ্য",
+    "Update Hospital Information": "হাসপাতালের তথ্য হালনাগাদ",
+    "Delete Hospital Information": "হাসপাতালের তথ্য মুছে ফেলুন ",
+
+    "Public Toilet List": "পাবলিক টয়লেটের তালিকা",
+    "Create Public Toilet": "পাবলিক টয়লেট তৈরি করুন",
+    "Update Public Toilet": "পাবলিক টয়লেট হালনাগাদ করুন",
+    "Delete Public Toilet": "পাবলিক টয়লেটের তথ্য মুছে ফেলুন",
+
+
+    "Official Form List": "অফিশিয়াল ফর্মের তালিকা",
+    "Official Form Information": "অফিশিয়াল ফর্মের তথ্য",
+    "Create Official Form": "অফিশিয়াল ফর্ম তৈরী করুন",
+    "Update Official Form": "অফিশিয়াল ফর্ম হালনাগাদ করুন",
+    "Delete Official Form": "অফিশিয়াল ফর্ম মুছে ফেলুন",
+
+    "Notice List" : "নোটিশের তালিকা",
+    "Create Notice" : "নোটিশ যুক্ত করুন",
+    "Notice Details" : "নোটিশের বিবরণ",
+    "Update Notice" : "নোটিশ হালনাগাদ করুন",
+    "Delete Notice" : "নোটিশ মুছে ফেলুন",
+
+    "Work List": "কাজের তালিকা",
+    "Work Information": "কাজের তথ্য",
+    "Update Work Information": "কজের তথ্য হালনাগাদ করুন",
+    "Create Work": "কাজ যুক্ত করুন ",
+    "Delete Work": "কাজ মুছে ফেলুন",
+
+    "Vehicle Licence List": "যানবাহনের তালিকা",
+    "Vehicle Licence Information": "যানবাহনের তথ্য",
+    "Update Vehicle Licence Information": "যানবাহনের তথ্য হালনাগাদ করুন",
+    "Create Vehicle Licence": "যনবাহন যুক্ত করুনব",
+    "Delete Vehicle Licence": "যানবাহন মুছে ফেলুন",
+
+    "Vehicle Type List": "গাড়ির ধরন তালিকা",
+    "Create Vehicle Type": "গাড়ির ধরন যুক্ত করুন",
+    "Vehicle Type Information": "গাড়ির ধরনের তথ্য",
+    "Update Vehicle Type": "গাড়ির ধরন হালনাগাদ করুন",
+    "Delete Vehicle Type": "গাড়ির ধরন মুছে ফেলুন",
+
+    "Relief Card List": "ত্রান কার্ডের তালিকা ",
+    "Relief Card Information": "ত্রান কার্ডের তথ্য",
+    "Update Relief Card Information": "ত্রান কার্ডের তথ্য হালনাগাদ করুন",
+    "Delete Relief Card Information": "ত্রান কার্ডের তথ্য মুছে ফেলুন",
+    "create Relief Card Information": "ত্রান কার্ড যুক্ত করুন",
+
+    "Relief Category List": "ত্রাণ বিভাগের তালিকা",
+    "Relief Category information": "ত্রাণ বিভাগের তথ্য",
+    "Update Relief Category Information": "ত্রাণ বিভাগ হালনাগাদ করুন",
+    "Create Relief Category": "ত্রাণ বিভাগ যুক্ত করুন",
+
+    "Contractor List" : "ঠিকাদার তালিকা ",
+    "Create Contractor" : "ঠিকাদার যুক্ত করুন",
+    "Contractor Information" : "ঠিকাদার তথ্য",
+    "Update Contractor Information" : "ঠিকাদার তথ্য হালনাগাদ করুন",
+    "Delete Contractor Information": "ঠিকাদার তথ্য মুছে ফেলুন",
+
+    "Contractor Category List" : "ঠিকাদার বিভাগ তালিকা",
+    "Create Contractor Category" : "ঠিকাদার বিভাগ যুক্ত করুন",
+    "Contractor Category Information" : "ঠিকাদার বিভাগ সম্পর্কিত তথ্য",
+    "Update Contractor Category Information" : "ঠিকাদার বিভাগ সম্পর্কিত তথ্য হালনাগাদ করুন",
+    "Delete Contractor Category Information" : "ঠিকাদার বিভাগের তথ্য মুছুন",
+
+    "Trade Licence List": "ট্রেড লাইসেন্স এর তালিকা",
+    "Create Trade Licence": "ট্রেড লাইসেন্স তৈরী করুন",
+    "Trade Licence Information": "ট্রেড লাইসেন্স এর তথ্য",
+    "Update Trade Licence Information": "ট্রেড লাইসেন্স এর তথ্ হালনাগাদ করুন",
+    "Delete Trade Licence Information": "ট্রেড লাইসেন্স মুছে ফেলুন",
+
+    "Business Category List": "বাণিজ্যিক বিভাগের তালিকা",
+    "Create Business Category": "বাণিজ্যিক বিভাগ যুক্ত করুন",
+    "Business Category Information": "বাণিজ্যিক বিভাগের তথ্য",
+    "Update Business Category Information": "বাণিজ্যিক বিভাগের তথ্ হালনাগাদ করুন",
+    "Delete Business Category": "বাণিজ্যিক বিভাগ মুছে ফেলুন",
+
+    "Character Certificate List" : "চারিত্রিক প্রশংসাপত্রের তালিকা",
+    "Create Character Certificate" : "চারিত্রিক প্রশংসাপত্র যুক্ত করুন",
+    "Character Certificate Information" : "চারিত্রিক প্রশংসাপত্রের তথ্য",
+    "Update Character Certificate Information" : "চারিত্রিক প্রশংসাপত্রের তথ্য হালনাগাদ করুন",
+    "Delete Character Certificate" : "চারিত্রিক প্রশংসাপত্রের তথ্য মুছুন",
+
+    "Equipment Category List" : "সরঞ্জাম বিভাগ তালিকা",
+    "Create Equipment Category" : "সরঞ্জাম বিভাগ যুক্ত করুন",
+    "Equipment Category Information" : "সরঞ্জাম বিভাগ সম্পর্কিত তথ্য",
+    "Update Equipment Category Information" : "সরঞ্জাম বিভাগ সম্পর্কিত তথ্য হালনাগাদ করুন",
+    "Delete Equipment Category" : "সরঞ্জাম বিভাগ সম্পর্কিত তথ্য মুছুন",
+
+    "Equipment List" : "সরঞ্জামের তালিকা",
+    "Update Equipment Information" : "সরঞ্জামের তথ্য",
+    "Create Equipment List" : "সরঞ্জামের তালিকা তৈরি করুন",
+    "Delete Equipment Information" : "সরঞ্জামের তালিকা মুছুন",
+
+    "Tender List": "দরপত্র তালিকা",
+    "Create Tender": "দরপত্র যুক্ত করুন",
+    "Tender Information": "দরপত্রের তথ্য",
+    "Update Tender Information": "দরপত্র হালনাগাদ করুন",
+    "Delete Tender Information": "দরপত্র মুছে ফেলুন",
+
+    "Circular List": "বিজ্ঞপ্তির তালিকা",
+    "Create Circular": "বিজ্ঞপ্তি তৈরি করুন",
+    "Circular Details": "বিজ্ঞপ্তির বিবরণ",
+    "Update Circular": "বিজ্ঞপ্তি হালনাগাদ করুন",
+    "Delete Circular": "বিজ্ঞপ্তি মুছুন",
+
+    "Emergency Call List": "জরুরী কল লিস্ট",
+    "Emergency Call Entry": "জরুরী কল যুক্ত করুন",
+    "Emergency Call Information": "জরুরী কলের তথ্য",
+    "Update Emergency Call Information": "জরুরী কল হালনাগাদ করুন",
+    "Delete Emergency Call Information": "জরুরী কল মুছে ফেলুন",
+
+    "Official Order List": "সরকারী আদেশ তালিকা",
+    "Create Official Order": "সরকারী আদেশ যুক্ত করুন",
+    "Official Order Information": "সরকারী আদেশের তথ্য",
+    "Update Official Order": "সরকারী আদেশের তথ্য হালনাগাদ করুন",
+    "Delete Official Order": "সরকারী আদেশের তথ্য মুছে ফেলুন",
+
+    "Waste Management Person's List" : "বর্জ্য ব্যবস্থাপনা ব্যক্তির তালিকা",
+    "Create Waste Management Person Information": "বর্জ্য ব্যবস্থাপনা ব্যক্তির তথ্য তৈরি করুন",
+    "Waste Management Person's Information": "বর্জ্য ব্যবস্থাপনা ব্যক্তির তথ্য",
+    "Update Waste Management Person's Information": "বর্জ্য ব্যবস্থাপনা ব্যক্তির তথ্য হালনাগাদ করুন",
+    "Delete Waste Management Person's Information": "বর্জ্য ব্যবস্থাপনা ব্যক্তির তথ্য মুছে দিন",
+
+    "SMS List": "এসএমএস তালিকা",
+    "SMS Templates List": "এসএমএস টেমপ্লেট তালিকা",
+    "Create SMS Template": "এসএমএস টেমপ্লেট তৈরি করুন",
+    "Send SMS": "এসএমএস পাঠান",
+    "Delete SMS Template" : "এসএমএস টেমপ্লেট মুছে দিন",
+
+
+
+
+
+    "Market Name": "",
+    "Market Area": "",
+    "Details": "",
+    "Total Shop": "",
+    "Area": "",
+    "Longitude": "",
+    "Latitude": "",
+
+    "Hospital Type": "",
+    "Hospital Name": "",
+    "Hospital Address": "",
+    "Phone Number": "",
+    "Owner Name": "",
+
+    "Institution Category": "",
+    "Select Institution": "",
+    "Institution Name": "",
+    "Institution Code": "",
+    "Institution Head": "",
+
+    "Public Toilet Name": "",
+    "Public Toilet Number": "",
+    "Maintain People Name": "",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+{
+    "Logout": "প্রস্থান",
+    "Gongni": "গংনি",
+    "Gongni City Corporation": "গংনি সিটি কর্পোরেশন",
+
+
+
+    "Sign In To Start Your Session": "আপনার সেশন শুরু করতে সাইন ইন করুন",
+    "Sign In": "সাইন ইন করুন",
+    "I Forgot My Password": "আমি আমার পাসওয়ার্ড ভুলে গেছি",
+    "Request New Password": "নতুন পাসওয়ার্ডের জন্য আবেদন করুন",
+    "Login Now": "এখন লগ ইন করুন",
+    "You Forgot Your Password? Here You Can Easily Retrieve A New Password.": "আপনি কি আপনার পাসওয়ার্ড ভুলে গেছেন? এখানে আপনি সহজেই একটি নতুন পাসওয়ার্ড পুনরুদ্ধার করতে পারেন।",
+
+
+    "Dashboard": "ড্যাশবোর্ড",
+    "Commissioner List": "কমিশনার তালিকা",
+    "People Of Ward": "ওয়ার্ডের লোক",
+    "Ward": "ওয়ার্ড",
+    "People": "মানুষ",
+    "Employees": "কর্মচারী",
+    "Notice": "নোটিশ",
+    "Profile": "প্রোফাইল",
+    "Update Password": "পাসওয়ার্ড আপডেট করুন",
+    "Current Password": "বর্তমান পাসওয়ার্ড",
+    "New Password": "নতুন পাসওয়ার্ড",
+    "Confirm New Password": "নিশ্চিত কর নতুন পাসওয়ার্ড",
+    "Update Profile": "প্রফাইল হালনাগাদ",
+
+
+    "Type Your Keywords Here": "আপনার কীওয়ার্ডগুলি এখানে টাইপ করুন",
+    "Reset": "রিসেট",
+    "Info": "তথ্য",
+    "Add": "যোগ করুন",
+    "Edit": "সম্পাদনা করুন",
+    "Update": "হালনাগাদ",
+    "Delete": "মুছে ফেলা",
+    "Save": "সংরক্ষণ",
+    "Back": "ফিরে যাও",
+    "Action": "কর্ম",
+
+
+    "Create People": "মানুষ তৈরি করুন",
+    "Update People Information": "লোকের তথ্য আপডেট করুন",
+    "Employee Information": "কর্মচারী তথ্য",
+    "Delete Employee Information": "কর্মচারীদের তথ্য মুছুন",
+    "Update Profile Information": "প্রোফাইল তথ্য আপডেট করুন",
+    "Profile Information": "জীবন তথ্য",
+    "People List Of Ward": "ওয়ার্ডের লোক তালিকা",
+    "People Information": "জনগণের তথ্য",
+    "Delete People Information": "জনগণের তথ্য মুছুন",
+    "People List": "লোক তালিকা",
+
+
+
+
+    "SL": "ক্রমিক নং",
+    "Name": "নাম",
+    "Father Name": "বাবার নাম",
+    "Mother Name": "মায়ের নাম",
+    "Employee Designation": "কর্মচারী পদবি",
+    "Ward No": "ওয়ার্ড নং",
+    "Ward Name": "ওয়ার্ডের নাম",
+    "Area": "এলাকা",
+}
